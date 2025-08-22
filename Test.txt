@@ -1,4 +1,4 @@
-I a writing this to verigy github-webhook..
+I a writing this to verigy github-webhook.
 
 
 
